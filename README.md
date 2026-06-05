@@ -1,5 +1,4 @@
-# Breeze Client
-![apple-icon.png](jb-image:img_1780675236794_3a6992285c228)
+# BreezeForRoblox
+![icon1.png](https://raw.githubusercontent.com/BreezeForRoblox/BreezeForRoblox/main/apple-icon.png)
 
-Executor Support
-- [ ] Potassium
+[logo](https://github.com/BreezeForRoblox/BreezeForRoblox.github.io/blob/main/apple-icon.png)
